@@ -1,0 +1,20 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+gr:
+  hello: "γεια σοθ κοσμε"
+  menu1: "Αρχική"
+  menu2: "Σχετικά με εμάς"
+  menu3: "Υπηρεσίες"
+  menu4: "Δεσμευσή μας"
+  menu5: "Ζήτηση προσφοράς"
+  menu6: "Careers"
+  menu7: "Επικοινωνία"
+  moto1: "Υπηρεσίες Φυσικής Ασφάλειας Επιχειρήσεων"
+  moto2: "Υπηρεσίες Φυσικής Ασφάλειας Ιδιωτών"
+  moto3: "Υπηρεσίες Ηλεκτρονικής Ασφάλειας"
+  ceowords: "Δεσμευόμαστε να σας παρέχουμε υπηρεσίες ασφαλείας που θα κάνουν εσάς, την επιχείρησή σας και τους πελάτες σας να αισθάνονται ασφαλείς και σίγουροι.."
+  ceo: "Κωνσταντίνος Δρίβας"
+  request: "Εκδήλωση ενδιαφέροντος για την συγκεκριμένη υπηρεσία"
+  formname: "Ονομα"
+

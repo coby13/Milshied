@@ -1,0 +1,19 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  hello: "Hello world"
+  menu1: "Home"
+  menu2: "About us"
+  menu3: "Services"
+  menu4: "Commitment"
+  menu5: "Request a quotation"
+  menu6: "Careers"
+  menu7: "Contact"
+  moto1: "Interest in Corporate Services"
+  moto2: "Private Security Services"
+  moto3: "IT Security Servises"
+  ceowords: "Our aim is to give you security services that make you, your business and customers feel safe and secure."
+  ceo: "Konstantinos Drivas"
+  request: "Request a quote for this service"
+  formname: "Name"
