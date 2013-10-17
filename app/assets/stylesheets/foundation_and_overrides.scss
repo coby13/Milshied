@@ -17,7 +17,7 @@
 // We use these to control various global styles
 
 $body-bg: image-url('tiles.png');
-// $body-bg: #fff;
+ $body-bg: #f0f0f0;
 // $body-font-color: #222;
 // $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
@@ -1012,8 +1012,8 @@ $topbar-margin-bottom: emCalc(30px);
 
 // Set the link colors and styles for top-level nav
 // $topbar-link-color: #fff;
-// $topbar-link-weight: bold;
-// $topbar-link-font-size: emCalc(13px);
+ $topbar-link-weight: none;
+ $topbar-link-font-size: emCalc(15px);
 
 // Style the top bar dropdown elements
 // $topbar-dropdown-bg: #333;

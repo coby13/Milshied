@@ -10,7 +10,6 @@ gem 'activeadmin'
 gem "paperclip"
 gem "ckeditor"
 gem 'globalize3'
-gem "activeadmin-globalize3"
 gem 'jquery-rails', '~> 2.3.0'
 gem 'rails-i18n'
 gem 'friendly_id'
